@@ -33,7 +33,7 @@ Metrics: Precision, Recall, F1-score, and Accuracy.
 
 How to Run
 Clone the repository:
-git clone https://github.com/your-repo/knn-image-segmentation.git
+git clone https://github.com/markknoffler/KNN_for_image_segmentation_dataset.git
 cd knn-image-segmentation
 
 Install dependencies:
